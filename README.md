@@ -12,7 +12,7 @@
 
 7. add     "sass:watch": "sass --no-source-map --watch scss:css" to scripts in package.json. Now you can run npm run sass:watch in terminal to watch sass
 
-8. run npm i bootstrap
+8. run npm i bootstrap, add <link rel="stylesheet" href="css/bootstrap.css" /> to html file head
 
 9. create js folder and script.js file, add the file to index.html
 
